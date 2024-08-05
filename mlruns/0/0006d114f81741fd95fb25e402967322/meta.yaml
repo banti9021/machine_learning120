@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/machine_learning1121/machine_learning120/mlruns/0/0006d114f81741fd95fb25e402967322/artifacts
+end_time: 1722849092284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0006d114f81741fd95fb25e402967322
+run_name: intelligent-swan-296
+run_uuid: 0006d114f81741fd95fb25e402967322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722849088555
+status: 3
+tags: []
+user_id: realme

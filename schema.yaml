@@ -1,0 +1,34 @@
+
+  columns:
+    CRIM:
+      type: float64
+    ZN:
+      type: float64
+    INDUS:
+      type: float64
+    CHAS:
+      type: float64
+    NOX:
+      type: float64
+    RM:
+      type: float64
+    AGE:
+      type: float64
+    DIS:
+      type: float64
+    RAD:
+      type: float64
+    TAX:
+      type: float64
+    PTRATIO:
+      type: float64
+    B:
+      type: float64
+    LSTAT:
+      type: float64
+    price:
+      type: float64
+  target_column:
+    name: price
+    type: float64
+ 
